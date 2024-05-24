@@ -1,1 +1,1 @@
-# AWS_Project_2_Hosting_Static_Website_Using-S3
+#AWS_Capestone_Project_01_Hosting_Static_Website_Using-S3
